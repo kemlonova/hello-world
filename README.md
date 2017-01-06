@@ -1,2 +1,3 @@
 # hello-world
-This is my repository where I store ideas, resources, or even share and discuss things with others.
+
+This is the piece where I write about myself
